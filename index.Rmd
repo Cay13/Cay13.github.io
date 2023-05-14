@@ -4,7 +4,7 @@ image: "Caleb.jpg"
 color: "#5A59A3"
 links:
   - label: Cirriculum Vitae
-    url: "https://www.linkedin.com/in/caleb-hernandez-485165245"
+    url: "https://www.linkedin.com/in/caleb-hernandez-485165245/overlay/1635526405399/single-media-viewer/?profileId=ACoAADy2pmUB0NK7kRLH2ZTajIc7nWA_1nplXUE"
   - label: Twitter
     url: "https://twitter.com/Chern0612"
   - label: Email
