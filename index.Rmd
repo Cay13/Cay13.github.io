@@ -1,0 +1,30 @@
+---
+title: "Caleb Hernandez"
+image: "Caleb.jpg"
+color: "#5A59A3"
+links:
+  - label: Cirriculum Vitae
+    url: "https://www.linkedin.com/in/caleb-hernandez-485165245"
+  - label: Twitter
+    url: "https://twitter.com/Chern0612"
+  - label: Email
+    url: "mailto:Calhernandez@csumb.edu"
+output:
+  postcards::trestles
+---
+ 
+## About Me
+
+ Welcome to my E-portfolio! I'm Caleb Hernandez, a McNair Scholar and a Marine Science major at The California State University, Monterey Bay. As a first-generation Latino, I am driven to continuously improve as a brown and queer scientist. Fueling my work is a deep commitment to advancing the representation and inclusion of underrepresented individuals in the realm of biological research.
+
+My academic and research experiences have propelled me towards pursuing a Ph.D. in Marine Biology with a specific focus on marine invertebrate ecology. This field fascinates me as I explore the intricate relationships and dynamics within marine ecosystems.
+
+Along my journey, I have cultivated a strong interest in combining my scientific expertise with a career in post-secondary education. Education has always held a special place in my heart, and I derive immense joy from sharing knowledge with others. It is through teaching and mentoring that I believe we can inspire future generations of scientists and foster a more inclusive scientific community.
+
+As I embark on this path, I aim to make a lasting impact by contributing to the field of Marine Biology through research, education, and advocacy. Thank you for joining me on this exciting adventure as I strive to create a brighter future for all in the world of Marine Biology.
+
+## Education
+
+**The California State University, Monterey Bay** | Seaside, CA
+
+B.S. in Marine Science | August 2019 - Present
