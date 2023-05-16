@@ -4,7 +4,7 @@ image: "Caleb.jpg"
 color: "#5A59A3"
 links:
   - label: Cirriculum Vitae
-    url: "https://www.linkedin.com/in/caleb-hernandez-485165245/overlay/1635526405399/single-media-viewer/?profileId=ACoAADy2pmUB0NK7kRLH2ZTajIc7nWA_1nplXUE"
+    url: "https://docs.google.com/document/d/1d-JNnE5A5mxC2vVjZGGXhW49VZFawklzkpNU-BAS-z4/edit?usp=sharing"
   - label: Twitter
     url: "https://twitter.com/Chern0612"
   - label: Email
@@ -12,7 +12,7 @@ links:
 output:
   postcards::trestles
 ---
- 
+
 ## About Me
 
  Welcome to my E-portfolio! I'm Caleb Hernandez, a McNair Scholar and a Marine Science major at The California State University, Monterey Bay. As a first-generation Latino, I am driven to continuously improve as a brown and queer scientist. Fueling my work is a deep commitment to advancing the representation and inclusion of underrepresented individuals in the realm of biological research.
